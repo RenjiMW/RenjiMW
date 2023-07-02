@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BalanceSeeker56
+- 👋 Hi, I’m @RenjiMW
 - 👀 I’m interested in makeing some normal money and doing something usefull for other people... I also like rugby, gym, joga, good food
 - 🌱 I’m currently learning JS, bootstrap
 - 💞️ I’m looking to collaborate on ...
