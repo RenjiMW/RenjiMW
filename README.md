@@ -1,6 +1,7 @@
-👋 Hi, I’m @RenjiMW  
-I'm on my way to switching to IT. Currently I am developing towards 'Frond-end'. My CSS and HTML skills allow me to create simple pages quite freely, and JS is less and less of a challenge. I will soon become a professional programmer.  
-I have always been a detail oriented person and previous (work related) experience has shown me that looking for solutions and striving to complete a task in such a way that the effect meets the actual requirements gives me real satisfaction.
+👋 Hi, I’m @RenjiMW
+I'm currently transitioning into the IT field, focusing on Front-End Development. I already feel confident working with HTML and CSS, and I’ve also developed a solid understanding of SCSS. JavaScript is becoming more intuitive for me every day, and I’ve recently started learning React to build more dynamic and interactive interfaces.
+
+I’ve always been a detail-oriented person. My previous work experience has taught me that finding effective solutions and completing tasks in a way that truly meets requirements brings me a great deal of satisfaction. I'm excited about continuing this journey and growing into a professional developer.
 
 <!--- - 🌱 I’m currently learning JS, bootstrap
 - 💞️ I’m looking to collaborate on ...
