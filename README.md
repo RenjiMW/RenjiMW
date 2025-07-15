@@ -1,4 +1,4 @@
-👋 Hi, I’m @RenjiMW
+👋 Hi, I’m RenjiMW
 
 I'm transitioning into the IT field with a strong focus on Front-End Development. I'm confident in working with HTML, CSS, and SCSS, and I’ve developed a solid grasp of JavaScript.
 I’ve already built several projects using React to create dynamic, interactive UIs, and I’ve also started working with Node.js and Express to explore the backend side of web development.
