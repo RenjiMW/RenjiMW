@@ -1,7 +1,8 @@
 👋 Hi, I’m @RenjiMW
-I'm currently transitioning into the IT field, focusing on Front-End Development. I already feel confident working with HTML and CSS, and I’ve also developed a solid understanding of SCSS. JavaScript is becoming more intuitive for me every day, and I’ve recently started learning React to build more dynamic and interactive interfaces.
+I'm transitioning into the IT field with a strong focus on Front-End Development. I'm confident in working with HTML, CSS, and SCSS, and I’ve developed a solid grasp of JavaScript.
+I’ve already built several projects using React to create dynamic, interactive UIs, and I’ve also started working with Node.js and Express to explore the backend side of web development.
 
-I’ve always been a detail-oriented person. My previous work experience has taught me that finding effective solutions and completing tasks in a way that truly meets requirements brings me a great deal of satisfaction. I'm excited about continuing this journey and growing into a professional developer.
+I'm a detail-oriented problem-solver by nature, and I find real satisfaction in building solutions that work and make sense. I'm excited to keep growing as a developer and take on more advanced challenges as I expand my full-stack skills.
 
 <!--- - 🌱 I’m currently learning JS, bootstrap
 - 💞️ I’m looking to collaborate on ...
