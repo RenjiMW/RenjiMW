@@ -1,7 +1,9 @@
 👋 Hi, 
 
-I'm transitioning into the IT field with a strong focus on Front-End Development. I'm confident in working with HTML, CSS, and SCSS, and I’ve developed a solid grasp of JavaScript.
-I’ve already built several projects using React to create dynamic, interactive UIs, and I’ve also started working with Node.js and Express to explore the backend side of web development.
+I'm currently working intensively to transition into the IT industry, with a primary focus on frontend development. However, as industry trends evolve—especially with the growing impact of AI—I’m also preparing to broaden my skill set toward a more full-stack approach.
+
+Right now, I'm diving deep into React and TypeScript to strengthen my frontend expertise. Previously, I completed several online courses and built my first projects using core frontend technologies such as JavaScript, HTML, CSS, SCSS, and Tailwind CSS.
+I've also experimented with backend technologies like Node.js and Express, gaining some initial hands-on experience.
 
 I'm a detail-oriented problem-solver by nature, and I find real satisfaction in building solutions that work and make sense. I'm excited to keep growing as a developer and take on more advanced challenges as I expand my full-stack skills.
 
